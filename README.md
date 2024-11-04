@@ -1,2 +1,2 @@
-# GameRanger_Account_Switcher
- GameRanger Account Switcher
+# GameRanger Account Switcher
+![Screenshot](Screenshot.png)
